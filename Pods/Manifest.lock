@@ -1,0 +1,19 @@
+PODS:
+  - CardIO (5.4.1)
+  - MidtransCoreKit (1.0.1)
+  - MidtransKit (1.0.1):
+    - CardIO (~> 5.4)
+    - MidtransCoreKit
+
+DEPENDENCIES:
+  - MidtransCoreKit
+  - MidtransKit
+
+SPEC CHECKSUMS:
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  MidtransCoreKit: 673dec7dcb4199c2587c460c68194685c0e57442
+  MidtransKit: fb6d2af73731b99c5e6f6097b0da43629f49cfaf
+
+PODFILE CHECKSUM: 76503ae1e44f23476a0c0f44bf905cf8430b3259
+
+COCOAPODS: 1.0.1
